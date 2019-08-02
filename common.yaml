@@ -1,0 +1,9 @@
+---
+groups::group:
+  - appgroup1
+  - appgroup2
+
+groups::members:
+  - user1
+  - user2
+  - user3
